@@ -10,11 +10,10 @@
 
 Profissional de Tecnologia com experiência em **Análise de Dados**, **Engenharia de Dados** e **Automação de Processos**, atuando no desenvolvimento de soluções de dados de ponta a ponta.
 
-- 🔭 Trabalho com **Python, PySpark, SQL, Power BI e Microsoft Fabric** — pipelines, arquitetura Medalhão, Lakehouse, modelagem de dados e dashboards para suporte à tomada de decisão.
-- ⚙️ Desenvolvo **automações e integrações entre sistemas** com Power Automate e n8n.
-- 💰 Experiência complementar em **gestão orçamentária de TI (CAPEX/OPEX)** e acompanhamento financeiro.
-- 🌱 Em desenvolvimento contínuo em **Engenharia de Dados**, aprofundando arquitetura de dados, pipelines e integração de sistemas.
-- 📍 São Paulo, SP
+- Trabalho com **Python, PySpark, SQL, Power BI e Microsoft Fabric**, desenvolvendo pipelines, arquitetura Medalhão, Lakehouse, modelagem de dados e dashboards para suporte à tomada de decisão.
+- Desenvolvo **automações e integrações entre sistemas** com Power Automate e n8n.
+- Experiência complementar em **gestão orçamentária de TI (CAPEX/OPEX)** e acompanhamento financeiro.
+- Em desenvolvimento contínuo em **Engenharia de Dados**, aprofundando arquitetura de dados, pipelines e integração de sistemas.
 
 ## 🛠️ Stack técnica
 
@@ -53,40 +52,3 @@ Profissional de Tecnologia com experiência em **Análise de Dados**, **Engenhar
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📌 Projetos em destaque
-
-**Pipeline de Dados e BI Financeiro — Vendas x Meta**
-Pipeline no Microsoft Fabric com arquitetura Medalhão (Bronze/Silver/Gold) e dashboard de Vendas x Meta no Power BI, com análises de inteligência comercial.
-`Microsoft Fabric` `PySpark` `Lakehouse` `Power BI` `DAX`
-
-**Automação do Envio de NFs para Pagamento**
-Workflow em n8n integrado ao ClickUp e TOTVS RM via API para validar Pedidos de Compra e automatizar o encaminhamento de Notas Fiscais ao time Fiscal.
-`n8n` `ClickUp` `TOTVS RM` `APIs`
-
-**Pipeline de Dados e BI Financeiro — Orçado x Realizado**
-Arquitetura de dados no Microsoft Fabric (Lakehouse + Delta) com dashboard de acompanhamento de despesas e desvios orçamentários.
-`Microsoft Fabric` `Lakehouse` `Power BI` `DAX`
-
-📎 Veja todos os projetos com mais detalhes no meu [portfólio](#).
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Victorbzrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorbzrr&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=Victorbzrr&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 📫 Contato
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.bezerra180601@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-bezerra-461712223)
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Victorbzrr&color=38bdf8&style=flat-square&label=Visitas+ao+perfil)
-
-</div>
